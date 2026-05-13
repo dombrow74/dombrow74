@@ -3,6 +3,8 @@
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/b252655d-9ebe-4a15-addb-bfa15247171b/thumbnail" >
 </p>
+
+[View my Boot.dev Progress](https://boot.dev/u/dombrow74) 
 <!--
 **dombrow74/dombrow74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
